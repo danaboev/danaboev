@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakhongir</h1>
-<h3 align="center">A frontend developer from Uzbekistan</h3>
+<h3 align="center"> I'm frontend developer from Uzbekistan</h3>
 
 - 👨‍💻 All of my projects are available at [danaboy.ru](danaboy.ru)
 
