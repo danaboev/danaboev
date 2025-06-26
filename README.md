@@ -22,8 +22,6 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
-</p>
 
 <h3 align="left">Software Development:</h3>
 <p> 
