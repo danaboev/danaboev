@@ -3,7 +3,8 @@
 - 👨‍💻 All of my projects are available at [danaboy.ru](danaboy.ru)
 - 📝 I regularly write articles on [https://t.me/+PLAeNdBlPl81MTEy](https://t.me/+PLAeNdBlPl81MTEy)
 - 📫 How to reach me **danaboev.jf@gmail.com**
-- 📄 Know about my experiences [guider.pro](guider.pro)
+- 📄 Know about my experiences [guider.pro](guider.pro) and bydagency.uz
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
