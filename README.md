@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakhongir</h1>
-<h3 align="center"> I'm a frontend developer from Uzbekistan</h3>
+<h3 align="center"> I'm a frontend developer </h3>
 
 - 👨‍💻 All of my projects are available at [danaboy.ru](danaboy.ru)
   
@@ -7,7 +7,7 @@
   
 - 📫 How to reach me **danaboev.jf@gmail.com**
   
-- 📄 Know about my experiences [guider.pro](guider.pro) and bydagency.uz
+- 📄 Know about my experiences [guider.pro](guider.pro) and [bydagency.uz](bydagency.uz)
 
 <h3 align="left">Connect with me:</h3>
 
