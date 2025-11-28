@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [danaboy.ru](danaboy.ru)
   
-#- 📝 I regularly write articles on [https://t.me/+PLAeNdBlPl81MTEy](https://t.me/+PLAeNdBlPl81MTEy)##
+!<-- - 📝 I regularly write articles on [https://t.me/+PLAeNdBlPl81MTEy](https://t.me/+PLAeNdBlPl81MTEy) -->!
   
 - 📫 How to reach me **danaboev.jf@gmail.com**
   
