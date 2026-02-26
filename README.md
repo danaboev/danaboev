@@ -5,7 +5,7 @@
   
 - 📫 How to reach me **danaboev.jf@gmail.com**
   
-- 📄 Know about my experiences [guider.pro](guider.pro) and [bydagency.uz](bydagency.uz)
+- 📄 Know about my experiences [guider.pro](guider.pro) 
 
 <h3 align="left">Connect with me:</h3>
 
