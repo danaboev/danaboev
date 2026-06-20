@@ -68,6 +68,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=radical" alt="stats" width="48%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" width="48%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danaboev&show_icons=true&locale=en&theme=radical" alt="stats" width="48%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danaboev&theme=radical" alt="streak" width="48%" />
 </p>
