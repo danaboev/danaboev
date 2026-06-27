@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakhongir</h1>
 <h3 align="center">Frontend Developer (React / TypeScript) | Senior IT Lecturer</h3>
 
-- 👨‍💻 All of my projects are available at [danaboy.ru](https://danaboy.one)
+- 👨‍💻 All of my projects are available at [danaboy.one](https://danaboy.one)
 
 - 🌱 Currently building **Driven.uz** (automotive classifieds) and **Tikos.uz** (universal classifieds platform)
 
